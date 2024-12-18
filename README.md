@@ -19,6 +19,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e desenvolvimento 
   <img src="https://img.shields.io/badge/Spring_MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
   <img src="https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
   <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
 </div>
 
