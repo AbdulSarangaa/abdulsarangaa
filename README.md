@@ -26,7 +26,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e desenvolvimento 
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulSarangaa&show_icons=true&theme=radical" alt="AbdulSaranga's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSarangaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulSaranga&show_icons=true&theme=radical" alt="AbdulSaranga's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSaranga&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
